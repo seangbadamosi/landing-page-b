@@ -1,2 +1,2 @@
 # landing-page-b
- making a demo landing about samsung using bootstrap 
+ making a demo landing page about samsung using bootstrap 
